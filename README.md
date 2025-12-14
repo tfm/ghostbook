@@ -2,6 +2,8 @@
 
 Ghostbook provides automation tools to turn your Facebook account into a shell account, if you still need an account but want minimal personal information on it.
 
+I'm sharing it hoping it's useful to others, since Facebook doesn't provide any way to bulk remove friends or set the visibility on existing content, but it was written very quickly with the assistance of Gemini and not built to be robust or expecting to survive any changes in the Facebook UI.
+
 ## Tools
 
 ### Friend Remover (`delete_friends.py`)
